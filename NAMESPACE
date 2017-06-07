@@ -1,0 +1,5 @@
+export(inote, itegs)
+importFrom("stats", "binomial", "glm", "pchisq", "pnorm", "predict", "qchisq", "qnorm", "rnorm", "sd", "var")
+import("CompQuadForm")
+import("plyr")
+import("mixtools")
